@@ -57,8 +57,9 @@ lsi: false
 username: dlwhitehurst 
 repo: ciwise.github.io 
 branch: master
-relative_source: ../ciwise.github.io 
-destination: ../ciwise.github.io/_site 
+relative_source: ../ciwise.github.custom 
+#destination: ../ciwise.github.custom/_site 
+destination: ../ciwise.github.io 
 production_url:  https://biomadeira.github.io/jasper/
 source_url:      https://github.com/biomadeira/jasper/
 

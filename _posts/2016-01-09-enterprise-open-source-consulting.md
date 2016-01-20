@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: 'assets/images/cover8.jpg'
+cover: 'assets/images/cover2.jpg'
 logo: 'assets/images/blog-logo.png'
 title:  "Enterprise Open Source Consulting"
 date:   2016-01-09 21:06:19 -0500
